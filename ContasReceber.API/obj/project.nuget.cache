@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UxXo1yI7sycapxlI27Yncyq0CENnLMZOazVSvSo0GJaa2vKPj85S+sodW0E/qFHy8OE3MwSweZDL2jBn1afRDA==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Microsoft C#\\Macoratti\\MicroServicos\\MicroServices\\TotalVendas\\ContasReceber.API\\ContasReceber.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RICARDO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RICARDO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RICARDO\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\RICARDO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\RICARDO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\RICARDO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
